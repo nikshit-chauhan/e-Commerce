@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "920932779651",
+    "project_id": "testinga-ee291",
+    "storage_bucket": "testinga-ee291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920932779651:android:ad8cbc1c4848b8b1fc7db6",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920932779651-uec03t1orkt0e903lvug021kuphsjogi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsTv-SiSoU94Cz6dsXrUfrqIarYL2NGHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920932779651-msi956je7vq3e3ctq5gvekqtu96iucsg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "920932779651-u0sf182rc3vr6o9uocgplksumkbl9a1t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleSignInApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
