@@ -12,13 +12,13 @@ class HomeScreen extends StatelessWidget {
   Widget build(context) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
-      children: const [
-        SizedBox(
+      children: [
+        const SizedBox(
           height: 14,
         ),
-        WelcomeText(),
-        SearchInputWidget(),
-        BannerWidget(),
+        const WelcomeText(),
+        const SearchInputWidget(),
+        const BannerWidget(),
         CategoryText(),
       ],
     );
